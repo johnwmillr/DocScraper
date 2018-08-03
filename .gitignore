@@ -1,0 +1,15 @@
+# Python / Jupyter
+*.pyc
+.ipynb_checkpoints
+
+# API Credentials
+secrets.txt
+
+# Data
+*.csv
+*.json
+*.txt
+*.pickle
+
+# macOS
+.DS_Store
