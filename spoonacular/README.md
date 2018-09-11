@@ -3,7 +3,7 @@
 
 [Spoonacular](http://spoonacular.com/) is a food and recipe website that offers a freemium API with over fifty different endpoints.
 
-My Python client for the Spoonacular is available here: [`spoonacular`](https://github.com/johnwmillr/SpoonacularAPI)
+My Python client for the Spoonacular API is available here: [`spoonacular`](https://github.com/johnwmillr/SpoonacularAPI)
 
 ### Examples
 
