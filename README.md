@@ -4,4 +4,4 @@ DocScaper uses API documentation scraped from the web to auto-generate Python AP
 
 Supported APIs:
  - [Sportradar](https://github.com/johnwmillr/SportradarAPIs) (complete)
- - [Spoonacular](https://github.com/johnwmillr/SpoonacularAPI) (in progress)
+ - [Spoonacular](https://github.com/johnwmillr/SpoonacularAPI) (complete)
